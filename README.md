@@ -18,3 +18,5 @@ Activities
  * Sushi and Sashimi
 
 ---
+
+For more about me, check out  [MyStats](MyStatus.md).
