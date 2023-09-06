@@ -27,7 +27,7 @@ For more about me, check out  [MyStats](MyStatus.md).
 
 | Sport            | Reason                                | Weekly Hours |
 
-| ---------------- | ------------------------------------- | ------------ |
+| :--------------: | :-----------------------------------: | :-----------: |
 
 | Badminton        | Great for relaxation and fitness      | 4-6 hours    |
 
@@ -40,3 +40,37 @@ For more about me, check out  [MyStats](MyStatus.md).
  
 
 ---
+
+## Inspiring Scientist Quotes
+
+ 
+
+> "Because knowledge belongs to all people and is the light that enlightens the entire globe, science knows no borders." - *Louis Pasteur*
+
+---
+
+## Code Snippet and Stack Overflow Question
+
+## htaccess 
+
+> How to redirect all HTTP requests to HTTPS Using.HTACCESS RULE?
+
+<https://stackoverflow.com/questions/4083221/how-to-redirect-all-http-requests-to-https-using-htaccess-rules>
+
+ ```
+
+<VirtualHost *:80>
+    ServerName www.example.com
+    Redirect / https://www.example.com/
+</VirtualHost>
+
+<VirtualHost *:443>
+    ServerName www.example.com
+    # ... SSL configuration goes here
+</VirtualHost>
+
+ ```
+ https://css-tricks.com/snippets/htaccess/force-https/
+
+ 
+
