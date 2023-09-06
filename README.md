@@ -19,7 +19,7 @@ Activities
 
 ---
 
-For more about me, check out  [MyStats](MyStatus.md).
+For more about me, check out  [MyStats](https://github.com/Varshitha-11/My1_Gunnala/blob/main/MyStats.md).
 
 ## Recommended Sports and Activities
 
@@ -27,7 +27,7 @@ For more about me, check out  [MyStats](MyStatus.md).
 
 | Sport            | Reason                                | Weekly Hours |
 
-| :--------------: | :-----------------------------------: | :-----------: |
+| :--------------: | :-----------------------------------: | :-----------:|
 
 | Badminton        | Great for relaxation and fitness      | 4-6 hours    |
 
