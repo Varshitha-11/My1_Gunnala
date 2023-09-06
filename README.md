@@ -23,27 +23,16 @@ For more about me, check out  [MyStats](https://github.com/Varshitha-11/My1_Gunn
 
 ## Recommended Sports and Activities
 
- 
-
-| Sport            | Reason                                | Weekly Hours |
-
-| :--------------: | :-----------------------------------: | :-----------:|
-
-| Badminton        | Great for relaxation and fitness      | 4-6 hours    |
-
-| Hiking           | Enjoy nature and stay active          | 3-5 hours    |
-
-| Tennis           | Social and competitive                | 2-4 hours    |
-
-| Yoga             | Stress relief and flexibility         | 2-3 hours    |
-
- 
+| Sports | Reason for Playing this Sport    | Hours spent    |
+| :----: | :------------------------------: | :-------------: |
+| Badminton | Fun and good for arm exercise  | 1 hr  |
+| Basketball | Fun and good for exercise  | 1 hr |
+| Swimming | Fun and good for overall body  | 30 mins  |
+| Cycling | Fun and good for legs exercise  | 30 mins  |
 
 ---
 
 ## Inspiring Scientist Quotes
-
- 
 
 > "Because knowledge belongs to all people and is the light that enlightens the entire globe, science knows no borders." - *Louis Pasteur*
 
