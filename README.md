@@ -20,3 +20,23 @@ Activities
 ---
 
 For more about me, check out  [MyStats](MyStatus.md).
+
+## Recommended Sports and Activities
+
+ 
+
+| Sport            | Reason                                | Weekly Hours |
+
+| ---------------- | ------------------------------------- | ------------ |
+
+| Badminton        | Great for relaxation and fitness      | 4-6 hours    |
+
+| Hiking           | Enjoy nature and stay active          | 3-5 hours    |
+
+| Tennis           | Social and competitive                | 2-4 hours    |
+
+| Yoga             | Stress relief and flexibility         | 2-3 hours    |
+
+ 
+
+---
